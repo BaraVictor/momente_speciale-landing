@@ -3,7 +3,10 @@ nav{
   align-items: center;
   justify-content: space-between;
   background: rgb(246,184,16);
-  padding: 40px 60px 40px 60px;
+  padding-top: 20px;
+  padding-right: 60px;
+  padding-bottom: 20px;
+  padding-left: 60px;
   box-shadow: 0 5px 15 px rgba(221,165,14, 0.06);
 }
 #navbar{
@@ -26,9 +29,7 @@ nav{
 }
 
 .navbar-title{
-  padding-left: 20px;
-  font-size: 40px;
-  font-weight: 600;
+  padding-left: 0px;
 }
 
 #navbar li a{
